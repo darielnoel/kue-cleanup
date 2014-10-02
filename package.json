@@ -1,0 +1,27 @@
+{
+  "name": "kue-cleanup",
+  "version": "0.1.0",
+  "description": "Cleanup script for Kue job queueing system in Node.js.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/darielnoel/kue-cleanup.git"
+  },
+  "keywords": [
+    "kue",
+    "cleanup",
+    "jobs",
+    "remove"
+  ],
+  "author": "Dariel Noel",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/darielnoel/kue-cleanup/issues"
+  },
+  "homepage": "https://github.com/darielnoel/kue-cleanup",
+  "dependencies": {
+    "kue": "^0.8.8",
+    "util": "^0.10.3"
+  }
+}
