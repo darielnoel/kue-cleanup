@@ -1,6 +1,6 @@
 {
   "name": "kue-cleanup",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Cleanup script for Kue job queueing system in Node.js.",
   "main": "index.js",
   "scripts": {},
